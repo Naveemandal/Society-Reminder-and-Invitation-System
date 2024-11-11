@@ -1,0 +1,4 @@
+
+{
+    "connectionString":"mongodb+srv://Admin:Admin123@navneetapi.0kcmf.mongodb.net/NoteApp?retryWrites=true&w=majority&appName=NavneetAPI"
+}
